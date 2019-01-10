@@ -1,1 +1,0 @@
-# fsnd-logs-analysis-project
